@@ -4,6 +4,7 @@ Where the law requires adult websites to check that a visitor is 18 or over, by 
 
 - **Live version, checked daily:** [pornsleuth.com/age-verification-laws](https://pornsleuth.com/age-verification-laws)
 - **This file:** `age-verification-laws.csv`, a snapshot of the same table. The live page is always newer.
+- **Examples:** [`EXAMPLES.md`](EXAMPLES.md): Cloudflare WAF rules and a JSON list built from the CSV.
 
 ## Columns
 
